@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🌱 I’m currently learning ... more about LLMs on both a theory and practical level to utilize them in projects. 
+👯 I’m looking to collaborate on ... interesting projects. I love learning new things so I am always willing to learn about new technologies to be able to meaningfully contribute!
+
+
 <!--
 **wowza82/wowza82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
