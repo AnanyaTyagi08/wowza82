@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🌱 I’m currently learning ... more about LLMs on both a theory and practical level to utilize them in projects. 
-👯 I’m looking to collaborate on ... interesting projects. I love learning new things so I am always willing to learn about new technologies to be able to meaningfully contribute!
+👯 I’m looking to collaborate on ... innovative ventures. I love learning new things so I am always willing to learn about new technologies to be able to meaningfully contribute to an idea!
 
 
 <!--
